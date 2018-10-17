@@ -11,7 +11,7 @@ It provides a way for me to build my own self awareness.
 
 ### `/slack`
 
-If you need something immediate from me, this or [`/ad-hoc-irl`](#ad-hoc-irl) are the endpoints to use. For the most part I respond quickly but [there are](#context-switching) [instances](#meetings) where I may not. In those cases I will leave your message unread and circle back later. If I'm offline, however, all bets are off.
+If you need something immediate from me, this or [`/ad-hoc-irl`](#ad-hoc-irl) are the endpoints to use. For the most part I respond quickly but [there are](#context-switching) [instances](#meetings) where I may not. In those cases I will leave your message unread and circle back later. If I'm offline, however, don't expect an immediate response.
 
 ### `/email`
 
@@ -27,13 +27,15 @@ Wrapping up the material before the allotted time is a _good thing_. It means we
 
 ### `/1-to-1s`
 
-This time is yours to tailor. The frequency and length of these meetings is up to you.
+This time is yours to tailor. The frequency and length of these meetings is up to you. For example, if it's our first time working together you might want to meet thirty minutes weekly. These can also change over time -- if you find we have less to talk about at a weekly cadence, perhaps we should switch to biweekly.
 
-Let's talk about anything that you feel would help you get better at what you do and anything that's getting in your way. If you can, spend some time before each meeting thinking about what you want to cover. Remember, this is about you -- don't squander it.
+Let's talk about anything that you feel would help you get better at what you do and anything that's getting in your way. If you can, spend some time before each meeting thinking about what you want to cover and I will do the same. We'll capture our talking notes in a shared doc to make sure we don't leave anything out. Remember, this is about you -- don't squander it.
 
 ### `/pair-programming`
 
 This is one of my favourites. Working through a problem with someone else is exciting. By the end of our time together we've created an artifact _and_ we most likely learned some things from each other.
+
+Typically I like to allot two hours to our pairing session. I find that's a good amount of time to spend on a problem as it also allows for discussion and/or whiteboarding (did you think we'd just be heads down coding?). As for _what_ we work on, it doesn't matter to me; we can tackle something either one of us has been assigned.
 
 ### `/ad-hoc-irl`
 
@@ -43,7 +45,7 @@ If I'm at my desk feel free to grab my attention for anything you may want my in
 
 ### Transparency
 
-I like to get things out into the open. I believe people work at their best when they have full knowledge of what's going on around them.
+I like to get things out into the open. I believe people work at their best when they have full knowledge of what's going on around them. I'll make an effort to let you know through any of the [endpoints](#public-endpoints).
 
 I'm open to any questions that you may have and will answer to the best of my abilities. I won't intentionally keep information from you.
 
